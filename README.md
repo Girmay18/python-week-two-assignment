@@ -13,7 +13,7 @@ This repository contains my Week Two assignment for learning Python lists. The p
 7. Find and print the index of the value `30` in `my_list`.
 
 ## File
-- `my_lists.py` : Contains the Python code implementing all tasks above.
+- `my_list.py` : Contains the Python code implementing all tasks above.
 
 ## Author
 Girmay Gebremeskel
